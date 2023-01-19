@@ -10,7 +10,7 @@ st.set_page_config(page_title=" Cluster", page_icon=":tada:", layout="wide")
 def create_page(content, page_title=""):
     st.title(page_title)
     st.write(content)
-st.header("Klaster Kemiripan jarak dan kecepatan")
+st.header("Klaster Kemiripan Jarak dan Kecepatan")
 st.write("Oleh Kelompok\n"+
 "- Azzura Hudzaifa Harun (2055301020)\n - Resti Yusfarima (2055301118)\n - Simon Rikki Purba (2055301158)")
 
